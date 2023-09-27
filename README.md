@@ -16,8 +16,13 @@ I'm a Full Stack developer with a focus on both Front-end and Back-end developme
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CabreraBrian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img align="center"m src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabreraBrian&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>  
+<p/>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CabreraBrian&theme=vision-friendly-dark&hide_border=false"/>  
+<p/>
+<div/>
 
 # 💻 Languages and Tools:
 <div align="center">
