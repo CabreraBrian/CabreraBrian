@@ -2,25 +2,24 @@
 
 ![header_github](https://raw.githubusercontent.com/CabreraBrian/CabreraBrian/main/banner.png)
 
-## About me
+# About me:
 I'm a Full Stack developer with a focus on both Front-end and Back-end development. I'm open to continuing my education, learning new technologies that will help me grow professionally, and eager to work on projects that challenge my skills to their fullest. Contact me and word together!
 
 - 🔭 I'm currently working on React, Redux proyects
 - 🌱 I'm currently learning new front-end techs
 - 💬 Ask me about JavaScript, HTML, CSS, React, Redux
 
-###
+# 🚀 Featured projects:
+- [GreenScreen🎬🍿](https://github.com/MoviesPf/MoviesFront)
+- [VideoGames 🎮🕹️](https://github.com/CabreraBrian/PI-Videogames-main)
+- [RickandMorty🛸🧪](https://github.com/CabreraBrian/Rick-Morty)
 
+# 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CabreraBrian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<h3 align="center">Languages and Tools:</h3>
-
-###
-
+# 💻 Languages and Tools:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -49,19 +48,12 @@ I'm a Full Stack developer with a focus on both Front-end and Back-end developme
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
-###
-
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
-###
-
-<h3 align="center">Contact me!</h3>
-
-###
-
+# Contact me!
 <div align="center">
   <a href="https://www.linkedin.com/in/brian-cabrera-159973292/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
